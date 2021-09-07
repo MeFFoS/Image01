@@ -1,0 +1,8 @@
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\bin\Release\Image01.exe.config
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\bin\Release\Image01.exe
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\bin\Release\Image01.pdb
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\obj\Release\Image01.form.resources
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\obj\Release\Image01.Properties.Resources.resources
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\obj\Release\Image01.csproj.GenerateResource.Cache
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\obj\Release\Image01.exe
+C:\Users\MeFFoS\Downloads\учеба\КГ\Image01\Image01\obj\Release\Image01.pdb
